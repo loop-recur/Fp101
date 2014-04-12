@@ -1,0 +1,11 @@
+{
+  "name": "fp101",
+  "version": "0.0.1",
+  "dependencies": {
+    "crypto": "*",
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1",
+    "lodash": "latest",
+    "pointfree-fantasy": "latest"
+  }
+}

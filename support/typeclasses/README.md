@@ -1,4 +1,0 @@
-typeclasses
-===========
-
-Fun with typeclasses!
